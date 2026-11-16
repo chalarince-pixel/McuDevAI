@@ -1,0 +1,14 @@
+McuDevAI
+Copyright 2026 Chala Rince (https://github.com/chalarince-pixel)
+
+This product includes software developed by Chala Rince (https://github.com/chalarince-pixel).
+
+Third-party software attributions:
+- TensorFlow Lite Micro
+  Copyright 2020 The TensorFlow Authors. All Rights Reserved.
+  Licensed under the Apache License, Version 2.0.
+
+- Espressif IoT Development Framework (ESP-IDF) and ESP components
+  Copyright Espressif Systems (Shanghai) PTE LTD.
+  Licensed under the Apache License, Version 2.0.
+

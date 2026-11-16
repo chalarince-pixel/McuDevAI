@@ -108,3 +108,12 @@ Run these commands in your project folder to flash the firmware and view the run
 # 2. Start the serial monitor
 ~/.platformio/penv/bin/pio device monitor
 ```
+
+---
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) and [NOTICE](NOTICE) files for details.
+
+Copyright © 2026 [Chala Rince](https://github.com/chalarince-pixel). All rights reserved.
+
